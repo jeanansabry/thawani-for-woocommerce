@@ -177,7 +177,7 @@ We welcome input from the community please let us know how we can improve this p
 
 ## License
 
-Distributed under the MIT License. See license (https://github.com/PhazeRoOman/thawani-for-woocommerce/blob/changes/LICENSE.md) for more information.
+Distributed under the MIT License. See [license] (https://github.com/PhazeRoOman/thawani-for-woocommerce/blob/changes/LICENSE.md) for more information.
 
 ## Maintained By: 
 * [PhazeRo](https://phaze.ro/)
